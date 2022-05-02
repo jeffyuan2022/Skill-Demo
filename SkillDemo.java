@@ -1,5 +1,7 @@
 public class SkillDemo{
 
-// Let's edit in our VSCode
+    public static int add(int n, int m){
+        return n+m;
+    }
 
 }
